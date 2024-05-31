@@ -1,1 +1,1 @@
-# RentiFyLoginProject
+# RentiFyLoginProject for hackathon
